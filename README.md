@@ -11,7 +11,7 @@
 
 ## 📝 Description
 
-In 15 minutes get 7 achivements on Github! 
+
 
 ## 🤓 For who?
 For everone who wants to learn more about GitHub platform and get those cool icons on their GitHub profile:
